@@ -1,4 +1,3 @@
-# generate-random-password-python
 import random
 import string
 
